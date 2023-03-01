@@ -1,1 +1,1 @@
-# Optimizaci-n-por-algoritmos-gen-ticos
+Optimización por algoritmos genéticos para la solución de problemas de optimización multimodal, multiobjetivo y multivariable.
